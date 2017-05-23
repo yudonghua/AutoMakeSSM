@@ -1,0 +1,4 @@
+修改 
+src/mybatis_config/Configuration.xml mappers
+src/spring_config/initDataBase.sql
+src/spring_config/applicationContext-bean|mvc 里的bean对象
